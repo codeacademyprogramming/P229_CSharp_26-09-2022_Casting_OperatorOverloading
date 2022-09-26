@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\bin\Debug\netcoreapp3.1\CastingLesson.exe
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\bin\Debug\netcoreapp3.1\CastingLesson.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\bin\Debug\netcoreapp3.1\CastingLesson.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\bin\Debug\netcoreapp3.1\CastingLesson.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\bin\Debug\netcoreapp3.1\CastingLesson.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\bin\Debug\netcoreapp3.1\CastingLesson.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.dll
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.pdb
+C:\Users\hamid.mammadov\Desktop\P229\P22926092022\CastingLesson\obj\Debug\netcoreapp3.1\CastingLesson.genruntimeconfig.cache
